@@ -16,6 +16,8 @@
 
 #### 🌱 Blog
 
+- [Entering Actor Model Nirvana with F# and TPL DataFlow](https://medium.com/draftkings-engineering/entering-actor-model-nirvana-with-f-and-tpl-dataflow-b8ab34b84656)
+
 <!--
 **AntyaDev/AntyaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
